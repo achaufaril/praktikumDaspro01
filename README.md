@@ -3,7 +3,7 @@ ini adalah repository pertama saya
 - Nama  : Achmad Aufaril Labiq
 - NIM   : 264107020053
 - Kelas : TI - 1F
-- Absen : 1
+- Absen : 1 (satu)
 
 Hasil Uji Studi Kasus 2 oleh akhdan 
 | No | Jenis | Dokumen | Juara/Dana | Output       | Sesuai? |
