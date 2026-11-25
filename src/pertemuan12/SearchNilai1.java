@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class SearchNilai1 {
     public static void main(String[] args) {
      int[] nilai = {78, 65, 90, 55, 88, 72};
-     int key = 51;
+     int key = 90;
      boolean ditemukan = false;
   
      for (int i = 0; i < nilai.length; i++) {
@@ -17,7 +17,7 @@ public class SearchNilai1 {
         }
     }
     if (!ditemukan) {
-         System.out.println("Nilai " + key + " tidak ditemukan."); 
+    System.out.println("Nilai yang dicari (" + key + ") tidak ditemukan di dalam data array."); 
     }
      
      int[] nilaiterurut = {78, 65, 90, 55, 88, 72};
